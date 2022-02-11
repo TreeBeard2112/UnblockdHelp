@@ -1,0 +1,8 @@
+.heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+    font-weight: 600;
+    color: blueviolet;
+    -webkit-text-stroke-width: 1.66px;
+    -webkit-text-stroke-color: black;
+}
